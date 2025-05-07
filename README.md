@@ -27,11 +27,14 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 
-## Output
-
+### 4A Program
 ![4a program](https://github.com/user-attachments/assets/b0556418-1622-457c-8b45-626dc71d5f91)
 
+### 4A Output
+
 ![4a terminal](https://github.com/user-attachments/assets/7498f279-06f1-43ba-94c2-fef2e59517d7)
+
+### 4B Output
 
 ![4b terminal](https://github.com/user-attachments/assets/12d3dde6-d9ed-456c-b0f3-a69716e85284)
 
